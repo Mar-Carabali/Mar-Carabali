@@ -1,3 +1,7 @@
+<h2 align="center"> Hola 👋 , Soy Maria del Mar Carabali<br/></h2> 
+<h3 align="center">También conocida como “Mar” por otras personas.
+ <br> <br>
+
 # 💫 Acerca de mi:
 Ingeniera en Sistemas con interés en el desarrollo de software y análisis de datos. Me enfoco en aprender nuevas tecnologías, aplicar buenas prácticas de programación y mejorar continuamente mis habilidades.
 
